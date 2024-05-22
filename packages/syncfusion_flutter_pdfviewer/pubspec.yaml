@@ -67,7 +67,7 @@ dependencies:
 
   syncfusion_flutter_pdf:
     git:
-      url:
+      url: https://github.com/lazycoder1996/flutter-widgets.git
       path: packages/syncfusion_flutter_pdf
       
   syncfusion_flutter_signaturepad:
