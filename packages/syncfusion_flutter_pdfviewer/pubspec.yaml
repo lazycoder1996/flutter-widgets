@@ -43,7 +43,7 @@ dependencies:
   syncfusion_pdfviewer_platform_interface:
     git:
       url: https://github.com/lazycoder1996/flutter-widgets.git
-      path: packags/syncfusion_pdfviewer_platform_interface
+      path: packages/syncfusion_pdfviewer_platform_interface
 
   syncfusion_pdfviewer_web:
     git: 
