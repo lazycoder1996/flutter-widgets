@@ -15,7 +15,9 @@ dependencies:
   js: ^0.7.1
   meta: ^1.3.0
   syncfusion_pdfviewer_platform_interface:
-      path: ../syncfusion_pdfviewer_platform_interface
+    git:
+      url: https://github.com/lazycoder1996/flutter-widgets.git
+      path: packages/syncfusion_pdfviewer_platform_interface
 
 dev_dependencies:
   flutter_test:
